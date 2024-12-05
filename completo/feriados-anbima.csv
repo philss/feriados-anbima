@@ -1,0 +1,1166 @@
+ano,data,descricao,dia_da_semana
+2001,2001-01-01,Confraternização Universal,segunda-feira
+2001,2001-02-26,Carnaval,segunda-feira
+2001,2001-02-27,Carnaval,terça-feira
+2001,2001-04-13,Paixão de Cristo,sexta-feira
+2001,2001-04-21,Tiradentes,sábado
+2001,2001-05-01,Dia do Trabalho,terça-feira
+2001,2001-06-14,Corpus Christi,quinta-feira
+2001,2001-09-07,Independência do Brasil,sexta-feira
+2001,2001-11-02,Finados,sexta-feira
+2001,2001-11-15,Proclamação da República,quinta-feira
+2001,2001-12-25,Natal,terça-feira
+2002,2002-01-01,Confraternização Universal,terça-feira
+2002,2002-02-11,Carnaval,segunda-feira
+2002,2002-02-12,Carnaval,terça-feira
+2002,2002-03-29,Paixão de Cristo,sexta-feira
+2002,2002-04-21,Tiradentes,domingo
+2002,2002-05-01,Dia do Trabalho,quarta-feira
+2002,2002-05-30,Corpus Christi,quinta-feira
+2002,2002-09-07,Independência do Brasil,sábado
+2002,2002-11-02,Finados,sábado
+2002,2002-11-15,Proclamação da República,sexta-feira
+2002,2002-12-25,Natal,quarta-feira
+2003,2003-01-01,Confraternização Universal,quarta-feira
+2003,2003-03-03,Carnaval,segunda-feira
+2003,2003-03-04,Carnaval,terça-feira
+2003,2003-04-18,Paixão de Cristo,sexta-feira
+2003,2003-04-21,Tiradentes,segunda-feira
+2003,2003-05-01,Dia do Trabalho,quinta-feira
+2003,2003-06-19,Corpus Christi,quinta-feira
+2003,2003-09-07,Independência do Brasil,domingo
+2003,2003-11-02,Finados,domingo
+2003,2003-11-15,Proclamação da República,sábado
+2003,2003-12-25,Natal,quinta-feira
+2004,2004-01-01,Confraternização Universal,quinta-feira
+2004,2004-02-23,Carnaval,segunda-feira
+2004,2004-02-24,Carnaval,terça-feira
+2004,2004-04-09,Paixão de Cristo,sexta-feira
+2004,2004-04-21,Tiradentes,quarta-feira
+2004,2004-05-01,Dia do Trabalho,sábado
+2004,2004-06-10,Corpus Christi,quinta-feira
+2004,2004-09-07,Independência do Brasil,terça-feira
+2004,2004-11-02,Finados,terça-feira
+2004,2004-11-15,Proclamação da República,segunda-feira
+2004,2004-12-25,Natal,sábado
+2005,2005-01-01,Confraternização Universal,sábado
+2005,2005-02-07,Carnaval,segunda-feira
+2005,2005-02-08,Carnaval,terça-feira
+2005,2005-03-25,Paixão de Cristo,sexta-feira
+2005,2005-04-21,Tiradentes,quinta-feira
+2005,2005-05-01,Dia do Trabalho,domingo
+2005,2005-05-26,Corpus Christi,quinta-feira
+2005,2005-09-07,Independência do Brasil,quarta-feira
+2005,2005-11-02,Finados,quarta-feira
+2005,2005-11-15,Proclamação da República,terça-feira
+2005,2005-12-25,Natal,domingo
+2006,2006-01-01,Confraternização Universal,domingo
+2006,2006-02-27,Carnaval,segunda-feira
+2006,2006-02-28,Carnaval,terça-feira
+2006,2006-04-14,Paixão de Cristo,sexta-feira
+2006,2006-04-21,Tiradentes,sexta-feira
+2006,2006-05-01,Dia do Trabalho,segunda-feira
+2006,2006-06-15,Corpus Christi,quinta-feira
+2006,2006-09-07,Independência do Brasil,quinta-feira
+2006,2006-11-02,Finados,quinta-feira
+2006,2006-11-15,Proclamação da República,quarta-feira
+2006,2006-12-25,Natal,segunda-feira
+2007,2007-01-01,Confraternização Universal,segunda-feira
+2007,2007-02-19,Carnaval,segunda-feira
+2007,2007-02-20,Carnaval,terça-feira
+2007,2007-04-06,Paixão de Cristo,sexta-feira
+2007,2007-04-21,Tiradentes,sábado
+2007,2007-05-01,Dia do Trabalho,terça-feira
+2007,2007-06-07,Corpus Christi,quinta-feira
+2007,2007-09-07,Independência do Brasil,sexta-feira
+2007,2007-11-02,Finados,sexta-feira
+2007,2007-11-15,Proclamação da República,quinta-feira
+2007,2007-12-25,Natal,terça-feira
+2008,2008-01-01,Confraternização Universal,terça-feira
+2008,2008-02-04,Carnaval,segunda-feira
+2008,2008-02-05,Carnaval,terça-feira
+2008,2008-03-21,Paixão de Cristo,sexta-feira
+2008,2008-04-21,Tiradentes,segunda-feira
+2008,2008-05-01,Dia do Trabalho,quinta-feira
+2008,2008-05-22,Corpus Christi,quinta-feira
+2008,2008-09-07,Independência do Brasil,domingo
+2008,2008-11-02,Finados,domingo
+2008,2008-11-15,Proclamação da República,sábado
+2008,2008-12-25,Natal,quinta-feira
+2009,2009-01-01,Confraternização Universal,quinta-feira
+2009,2009-02-23,Carnaval,segunda-feira
+2009,2009-02-24,Carnaval,terça-feira
+2009,2009-04-10,Paixão de Cristo,sexta-feira
+2009,2009-04-21,Tiradentes,terça-feira
+2009,2009-05-01,Dia do Trabalho,sexta-feira
+2009,2009-06-11,Corpus Christi,quinta-feira
+2009,2009-09-07,Independência do Brasil,segunda-feira
+2009,2009-11-02,Finados,segunda-feira
+2009,2009-11-15,Proclamação da República,domingo
+2009,2009-12-25,Natal,sexta-feira
+2010,2010-01-01,Confraternização Universal,sexta-feira
+2010,2010-02-15,Carnaval,segunda-feira
+2010,2010-02-16,Carnaval,terça-feira
+2010,2010-04-02,Paixão de Cristo,sexta-feira
+2010,2010-04-21,Tiradentes,quarta-feira
+2010,2010-05-01,Dia do Trabalho,sábado
+2010,2010-06-03,Corpus Christi,quinta-feira
+2010,2010-09-07,Independência do Brasil,terça-feira
+2010,2010-11-02,Finados,terça-feira
+2010,2010-11-15,Proclamação da República,segunda-feira
+2010,2010-12-25,Natal,sábado
+2011,2011-01-01,Confraternização Universal,sábado
+2011,2011-03-07,Carnaval,segunda-feira
+2011,2011-03-08,Carnaval,terça-feira
+2011,2011-04-21,Tiradentes,quinta-feira
+2011,2011-04-22,Paixão de Cristo,sexta-feira
+2011,2011-05-01,Dia do Trabalho,domingo
+2011,2011-06-23,Corpus Christi,quinta-feira
+2011,2011-09-07,Independência do Brasil,quarta-feira
+2011,2011-11-02,Finados,quarta-feira
+2011,2011-11-15,Proclamação da República,terça-feira
+2011,2011-12-25,Natal,domingo
+2012,2012-01-01,Confraternização Universal,domingo
+2012,2012-02-20,Carnaval,segunda-feira
+2012,2012-02-21,Carnaval,terça-feira
+2012,2012-04-06,Paixão de Cristo,sexta-feira
+2012,2012-04-21,Tiradentes,sábado
+2012,2012-05-01,Dia do Trabalho,terça-feira
+2012,2012-06-07,Corpus Christi,quinta-feira
+2012,2012-09-07,Independência do Brasil,sexta-feira
+2012,2012-11-02,Finados,sexta-feira
+2012,2012-11-15,Proclamação da República,quinta-feira
+2012,2012-12-25,Natal,terça-feira
+2013,2013-01-01,Confraternização Universal,terça-feira
+2013,2013-02-11,Carnaval,segunda-feira
+2013,2013-02-12,Carnaval,terça-feira
+2013,2013-03-29,Paixão de Cristo,sexta-feira
+2013,2013-04-21,Tiradentes,domingo
+2013,2013-05-01,Dia do Trabalho,quarta-feira
+2013,2013-05-30,Corpus Christi,quinta-feira
+2013,2013-09-07,Independência do Brasil,sábado
+2013,2013-11-02,Finados,sábado
+2013,2013-11-15,Proclamação da República,sexta-feira
+2013,2013-12-25,Natal,quarta-feira
+2014,2014-01-01,Confraternização Universal,quarta-feira
+2014,2014-03-03,Carnaval,segunda-feira
+2014,2014-03-04,Carnaval,terça-feira
+2014,2014-04-18,Paixão de Cristo,sexta-feira
+2014,2014-04-21,Tiradentes,segunda-feira
+2014,2014-05-01,Dia do Trabalho,quinta-feira
+2014,2014-06-19,Corpus Christi,quinta-feira
+2014,2014-09-07,Independência do Brasil,domingo
+2014,2014-11-02,Finados,domingo
+2014,2014-11-15,Proclamação da República,sábado
+2014,2014-12-25,Natal,quinta-feira
+2015,2015-01-01,Confraternização Universal,quinta-feira
+2015,2015-02-16,Carnaval,segunda-feira
+2015,2015-02-17,Carnaval,terça-feira
+2015,2015-04-03,Paixão de Cristo,sexta-feira
+2015,2015-04-21,Tiradentes,terça-feira
+2015,2015-05-01,Dia do Trabalho,sexta-feira
+2015,2015-06-04,Corpus Christi,quinta-feira
+2015,2015-09-07,Independência do Brasil,segunda-feira
+2015,2015-11-02,Finados,segunda-feira
+2015,2015-11-15,Proclamação da República,domingo
+2015,2015-12-25,Natal,sexta-feira
+2016,2016-01-01,Confraternização Universal,sexta-feira
+2016,2016-02-08,Carnaval,segunda-feira
+2016,2016-02-09,Carnaval,terça-feira
+2016,2016-03-25,Paixão de Cristo,sexta-feira
+2016,2016-04-21,Tiradentes,quinta-feira
+2016,2016-05-01,Dia do Trabalho,domingo
+2016,2016-05-26,Corpus Christi,quinta-feira
+2016,2016-09-07,Independência do Brasil,quarta-feira
+2016,2016-11-02,Finados,quarta-feira
+2016,2016-11-15,Proclamação da República,terça-feira
+2016,2016-12-25,Natal,domingo
+2017,2017-01-01,Confraternização Universal,domingo
+2017,2017-02-27,Carnaval,segunda-feira
+2017,2017-02-28,Carnaval,terça-feira
+2017,2017-04-14,Paixão de Cristo,sexta-feira
+2017,2017-04-21,Tiradentes,sexta-feira
+2017,2017-05-01,Dia do Trabalho,segunda-feira
+2017,2017-06-15,Corpus Christi,quinta-feira
+2017,2017-09-07,Independência do Brasil,quinta-feira
+2017,2017-11-02,Finados,quinta-feira
+2017,2017-11-15,Proclamação da República,quarta-feira
+2017,2017-12-25,Natal,segunda-feira
+2018,2018-01-01,Confraternização Universal,segunda-feira
+2018,2018-02-12,Carnaval,segunda-feira
+2018,2018-02-13,Carnaval,terça-feira
+2018,2018-03-30,Paixão de Cristo,sexta-feira
+2018,2018-04-21,Tiradentes,sábado
+2018,2018-05-01,Dia do Trabalho,terça-feira
+2018,2018-05-31,Corpus Christi,quinta-feira
+2018,2018-09-07,Independência do Brasil,sexta-feira
+2018,2018-11-02,Finados,sexta-feira
+2018,2018-11-15,Proclamação da República,quinta-feira
+2018,2018-12-25,Natal,terça-feira
+2019,2019-01-01,Confraternização Universal,terça-feira
+2019,2019-03-04,Carnaval,segunda-feira
+2019,2019-03-05,Carnaval,terça-feira
+2019,2019-04-19,Paixão de Cristo,sexta-feira
+2019,2019-04-21,Tiradentes,domingo
+2019,2019-05-01,Dia do Trabalho,quarta-feira
+2019,2019-06-20,Corpus Christi,quinta-feira
+2019,2019-09-07,Independência do Brasil,sábado
+2019,2019-11-02,Finados,sábado
+2019,2019-11-15,Proclamação da República,sexta-feira
+2019,2019-12-25,Natal,quarta-feira
+2020,2020-01-01,Confraternização Universal,quarta-feira
+2020,2020-02-24,Carnaval,segunda-feira
+2020,2020-02-25,Carnaval,terça-feira
+2020,2020-04-10,Paixão de Cristo,sexta-feira
+2020,2020-04-21,Tiradentes,terça-feira
+2020,2020-05-01,Dia do Trabalho,sexta-feira
+2020,2020-06-11,Corpus Christi,quinta-feira
+2020,2020-09-07,Independência do Brasil,segunda-feira
+2020,2020-11-02,Finados,segunda-feira
+2020,2020-11-15,Proclamação da República,domingo
+2020,2020-12-25,Natal,sexta-feira
+2021,2021-01-01,Confraternização Universal,sexta-feira
+2021,2021-02-15,Carnaval,segunda-feira
+2021,2021-02-16,Carnaval,terça-feira
+2021,2021-04-02,Paixão de Cristo,sexta-feira
+2021,2021-04-21,Tiradentes,quarta-feira
+2021,2021-05-01,Dia do Trabalho,sábado
+2021,2021-06-03,Corpus Christi,quinta-feira
+2021,2021-09-07,Independência do Brasil,terça-feira
+2021,2021-11-02,Finados,terça-feira
+2021,2021-11-15,Proclamação da República,segunda-feira
+2021,2021-12-25,Natal,sábado
+2022,2022-01-01,Confraternização Universal,sábado
+2022,2022-02-28,Carnaval,segunda-feira
+2022,2022-03-01,Carnaval,terça-feira
+2022,2022-04-15,Paixão de Cristo,sexta-feira
+2022,2022-04-21,Tiradentes,quinta-feira
+2022,2022-05-01,Dia do Trabalho,domingo
+2022,2022-06-16,Corpus Christi,quinta-feira
+2022,2022-09-07,Independência do Brasil,quarta-feira
+2022,2022-11-02,Finados,quarta-feira
+2022,2022-11-15,Proclamação da República,terça-feira
+2022,2022-12-25,Natal,domingo
+2023,2023-01-01,Confraternização Universal,domingo
+2023,2023-02-20,Carnaval,segunda-feira
+2023,2023-02-21,Carnaval,terça-feira
+2023,2023-04-07,Paixão de Cristo,sexta-feira
+2023,2023-04-21,Tiradentes,sexta-feira
+2023,2023-05-01,Dia do Trabalho,segunda-feira
+2023,2023-06-08,Corpus Christi,quinta-feira
+2023,2023-09-07,Independência do Brasil,quinta-feira
+2023,2023-11-02,Finados,quinta-feira
+2023,2023-11-15,Proclamação da República,quarta-feira
+2023,2023-12-25,Natal,segunda-feira
+2024,2024-01-01,Confraternização Universal,segunda-feira
+2024,2024-02-12,Carnaval,segunda-feira
+2024,2024-02-13,Carnaval,terça-feira
+2024,2024-03-29,Paixão de Cristo,sexta-feira
+2024,2024-04-21,Tiradentes,domingo
+2024,2024-05-01,Dia do Trabalho,quarta-feira
+2024,2024-05-30,Corpus Christi,quinta-feira
+2024,2024-09-07,Independência do Brasil,sábado
+2024,2024-11-02,Finados,sábado
+2024,2024-11-15,Proclamação da República,sexta-feira
+2024,2024-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2024,2024-12-25,Natal,quarta-feira
+2025,2025-01-01,Confraternização Universal,quarta-feira
+2025,2025-03-03,Carnaval,segunda-feira
+2025,2025-03-04,Carnaval,terça-feira
+2025,2025-04-18,Paixão de Cristo,sexta-feira
+2025,2025-04-21,Tiradentes,segunda-feira
+2025,2025-05-01,Dia do Trabalho,quinta-feira
+2025,2025-06-19,Corpus Christi,quinta-feira
+2025,2025-09-07,Independência do Brasil,domingo
+2025,2025-11-02,Finados,domingo
+2025,2025-11-15,Proclamação da República,sábado
+2025,2025-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2025,2025-12-25,Natal,quinta-feira
+2026,2026-01-01,Confraternização Universal,quinta-feira
+2026,2026-02-16,Carnaval,segunda-feira
+2026,2026-02-17,Carnaval,terça-feira
+2026,2026-04-03,Paixão de Cristo,sexta-feira
+2026,2026-04-21,Tiradentes,terça-feira
+2026,2026-05-01,Dia do Trabalho,sexta-feira
+2026,2026-06-04,Corpus Christi,quinta-feira
+2026,2026-09-07,Independência do Brasil,segunda-feira
+2026,2026-11-02,Finados,segunda-feira
+2026,2026-11-15,Proclamação da República,domingo
+2026,2026-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2026,2026-12-25,Natal,sexta-feira
+2027,2027-01-01,Confraternização Universal,sexta-feira
+2027,2027-02-08,Carnaval,segunda-feira
+2027,2027-02-09,Carnaval,terça-feira
+2027,2027-03-26,Paixão de Cristo,sexta-feira
+2027,2027-04-21,Tiradentes,quarta-feira
+2027,2027-05-01,Dia do Trabalho,sábado
+2027,2027-05-27,Corpus Christi,quinta-feira
+2027,2027-09-07,Independência do Brasil,terça-feira
+2027,2027-11-02,Finados,terça-feira
+2027,2027-11-15,Proclamação da República,segunda-feira
+2027,2027-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2027,2027-12-25,Natal,sábado
+2028,2028-01-01,Confraternização Universal,sábado
+2028,2028-02-28,Carnaval,segunda-feira
+2028,2028-02-29,Carnaval,terça-feira
+2028,2028-04-14,Paixão de Cristo,sexta-feira
+2028,2028-04-21,Tiradentes,sexta-feira
+2028,2028-05-01,Dia do Trabalho,segunda-feira
+2028,2028-06-15,Corpus Christi,quinta-feira
+2028,2028-09-07,Independência do Brasil,quinta-feira
+2028,2028-11-02,Finados,quinta-feira
+2028,2028-11-15,Proclamação da República,quarta-feira
+2028,2028-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2028,2028-12-25,Natal,segunda-feira
+2029,2029-01-01,Confraternização Universal,segunda-feira
+2029,2029-02-12,Carnaval,segunda-feira
+2029,2029-02-13,Carnaval,terça-feira
+2029,2029-03-30,Paixão de Cristo,sexta-feira
+2029,2029-04-21,Tiradentes,sábado
+2029,2029-05-01,Dia do Trabalho,terça-feira
+2029,2029-05-31,Corpus Christi,quinta-feira
+2029,2029-09-07,Independência do Brasil,sexta-feira
+2029,2029-11-02,Finados,sexta-feira
+2029,2029-11-15,Proclamação da República,quinta-feira
+2029,2029-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2029,2029-12-25,Natal,terça-feira
+2030,2030-01-01,Confraternização Universal,terça-feira
+2030,2030-03-04,Carnaval,segunda-feira
+2030,2030-03-05,Carnaval,terça-feira
+2030,2030-04-19,Paixão de Cristo,sexta-feira
+2030,2030-04-21,Tiradentes,domingo
+2030,2030-05-01,Dia do Trabalho,quarta-feira
+2030,2030-06-20,Corpus Christi,quinta-feira
+2030,2030-09-07,Independência do Brasil,sábado
+2030,2030-11-02,Finados,sábado
+2030,2030-11-15,Proclamação da República,sexta-feira
+2030,2030-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2030,2030-12-25,Natal,quarta-feira
+2031,2031-01-01,Confraternização Universal,quarta-feira
+2031,2031-02-24,Carnaval,segunda-feira
+2031,2031-02-25,Carnaval,terça-feira
+2031,2031-04-11,Paixão de Cristo,sexta-feira
+2031,2031-04-21,Tiradentes,segunda-feira
+2031,2031-05-01,Dia do Trabalho,quinta-feira
+2031,2031-06-12,Corpus Christi,quinta-feira
+2031,2031-09-07,Independência do Brasil,domingo
+2031,2031-11-02,Finados,domingo
+2031,2031-11-15,Proclamação da República,sábado
+2031,2031-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2031,2031-12-25,Natal,quinta-feira
+2032,2032-01-01,Confraternização Universal,quinta-feira
+2032,2032-02-09,Carnaval,segunda-feira
+2032,2032-02-10,Carnaval,terça-feira
+2032,2032-03-26,Paixão de Cristo,sexta-feira
+2032,2032-04-21,Tiradentes,quarta-feira
+2032,2032-05-01,Dia do Trabalho,sábado
+2032,2032-05-27,Corpus Christi,quinta-feira
+2032,2032-09-07,Independência do Brasil,terça-feira
+2032,2032-11-02,Finados,terça-feira
+2032,2032-11-15,Proclamação da República,segunda-feira
+2032,2032-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2032,2032-12-25,Natal,sábado
+2033,2033-01-01,Confraternização Universal,sábado
+2033,2033-02-28,Carnaval,segunda-feira
+2033,2033-03-01,Carnaval,terça-feira
+2033,2033-04-15,Paixão de Cristo,sexta-feira
+2033,2033-04-21,Tiradentes,quinta-feira
+2033,2033-05-01,Dia do Trabalho,domingo
+2033,2033-06-16,Corpus Christi,quinta-feira
+2033,2033-09-07,Independência do Brasil,quarta-feira
+2033,2033-11-02,Finados,quarta-feira
+2033,2033-11-15,Proclamação da República,terça-feira
+2033,2033-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2033,2033-12-25,Natal,domingo
+2034,2034-01-01,Confraternização Universal,domingo
+2034,2034-02-20,Carnaval,segunda-feira
+2034,2034-02-21,Carnaval,terça-feira
+2034,2034-04-07,Paixão de Cristo,sexta-feira
+2034,2034-04-21,Tiradentes,sexta-feira
+2034,2034-05-01,Dia do Trabalho,segunda-feira
+2034,2034-06-08,Corpus Christi,quinta-feira
+2034,2034-09-07,Independência do Brasil,quinta-feira
+2034,2034-11-02,Finados,quinta-feira
+2034,2034-11-15,Proclamação da República,quarta-feira
+2034,2034-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2034,2034-12-25,Natal,segunda-feira
+2035,2035-01-01,Confraternização Universal,segunda-feira
+2035,2035-02-05,Carnaval,segunda-feira
+2035,2035-02-06,Carnaval,terça-feira
+2035,2035-03-23,Paixão de Cristo,sexta-feira
+2035,2035-04-21,Tiradentes,sábado
+2035,2035-05-01,Dia do Trabalho,terça-feira
+2035,2035-05-24,Corpus Christi,quinta-feira
+2035,2035-09-07,Independência do Brasil,sexta-feira
+2035,2035-11-02,Finados,sexta-feira
+2035,2035-11-15,Proclamação da República,quinta-feira
+2035,2035-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2035,2035-12-25,Natal,terça-feira
+2036,2036-01-01,Confraternização Universal,terça-feira
+2036,2036-02-25,Carnaval,segunda-feira
+2036,2036-02-26,Carnaval,terça-feira
+2036,2036-04-11,Paixão de Cristo,sexta-feira
+2036,2036-04-21,Tiradentes,segunda-feira
+2036,2036-05-01,Dia do Trabalho,quinta-feira
+2036,2036-06-12,Corpus Christi,quinta-feira
+2036,2036-09-07,Independência do Brasil,domingo
+2036,2036-11-02,Finados,domingo
+2036,2036-11-15,Proclamação da República,sábado
+2036,2036-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2036,2036-12-25,Natal,quinta-feira
+2037,2037-01-01,Confraternização Universal,quinta-feira
+2037,2037-02-16,Carnaval,segunda-feira
+2037,2037-02-17,Carnaval,terça-feira
+2037,2037-04-03,Paixão de Cristo,sexta-feira
+2037,2037-04-21,Tiradentes,terça-feira
+2037,2037-05-01,Dia do Trabalho,sexta-feira
+2037,2037-06-04,Corpus Christi,quinta-feira
+2037,2037-09-07,Independência do Brasil,segunda-feira
+2037,2037-11-02,Finados,segunda-feira
+2037,2037-11-15,Proclamação da República,domingo
+2037,2037-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2037,2037-12-25,Natal,sexta-feira
+2038,2038-01-01,Confraternização Universal,sexta-feira
+2038,2038-03-08,Carnaval,segunda-feira
+2038,2038-03-09,Carnaval,terça-feira
+2038,2038-04-21,Tiradentes,quarta-feira
+2038,2038-04-23,Paixão de Cristo,sexta-feira
+2038,2038-05-01,Dia do Trabalho,sábado
+2038,2038-06-24,Corpus Christi,quinta-feira
+2038,2038-09-07,Independência do Brasil,terça-feira
+2038,2038-11-02,Finados,terça-feira
+2038,2038-11-15,Proclamação da República,segunda-feira
+2038,2038-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2038,2038-12-25,Natal,sábado
+2039,2039-01-01,Confraternização Universal,sábado
+2039,2039-02-21,Carnaval,segunda-feira
+2039,2039-02-22,Carnaval,terça-feira
+2039,2039-04-08,Paixão de Cristo,sexta-feira
+2039,2039-04-21,Tiradentes,quinta-feira
+2039,2039-05-01,Dia do Trabalho,domingo
+2039,2039-06-09,Corpus Christi,quinta-feira
+2039,2039-09-07,Independência do Brasil,quarta-feira
+2039,2039-11-02,Finados,quarta-feira
+2039,2039-11-15,Proclamação da República,terça-feira
+2039,2039-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2039,2039-12-25,Natal,domingo
+2040,2040-01-01,Confraternização Universal,domingo
+2040,2040-02-13,Carnaval,segunda-feira
+2040,2040-02-14,Carnaval,terça-feira
+2040,2040-03-30,Paixão de Cristo,sexta-feira
+2040,2040-04-21,Tiradentes,sábado
+2040,2040-05-01,Dia do Trabalho,terça-feira
+2040,2040-05-31,Corpus Christi,quinta-feira
+2040,2040-09-07,Independência do Brasil,sexta-feira
+2040,2040-11-02,Finados,sexta-feira
+2040,2040-11-15,Proclamação da República,quinta-feira
+2040,2040-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2040,,Natal,terça-feira
+2041,2041-01-01,Confraternização Universal,terça-feira
+2041,2041-03-04,Carnaval,segunda-feira
+2041,2041-03-05,Carnaval,terça-feira
+2041,2041-04-19,Paixão de Cristo,sexta-feira
+2041,2041-04-21,Tiradentes,domingo
+2041,2041-05-01,Dia do Trabalho,quarta-feira
+2041,2041-06-20,Corpus Christi,quinta-feira
+2041,2041-09-07,Independência do Brasil,sábado
+2041,2041-11-02,Finados,sábado
+2041,2041-11-15,Proclamação da República,sexta-feira
+2041,2041-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2041,2041-12-25,Natal,quarta-feira
+2042,2042-01-01,Confraternização Universal,quarta-feira
+2042,2042-02-17,Carnaval,segunda-feira
+2042,2042-02-18,Carnaval,terça-feira
+2042,2042-04-04,Paixão de Cristo,sexta-feira
+2042,2042-04-21,Tiradentes,segunda-feira
+2042,2042-05-01,Dia do Trabalho,quinta-feira
+2042,2042-06-05,Corpus Christi,quinta-feira
+2042,2042-09-07,Independência do Brasil,domingo
+2042,2042-11-02,Finados,domingo
+2042,2042-11-15,Proclamação da República,sábado
+2042,2042-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2042,2042-12-25,Natal,quinta-feira
+2043,2043-01-01,Confraternização Universal,quinta-feira
+2043,2043-02-09,Carnaval,segunda-feira
+2043,2043-02-10,Carnaval,terça-feira
+2043,2043-03-27,Paixão de Cristo,sexta-feira
+2043,2043-04-21,Tiradentes,terça-feira
+2043,2043-05-01,Dia do Trabalho,sexta-feira
+2043,2043-05-28,Corpus Christi,quinta-feira
+2043,2043-09-07,Independência do Brasil,segunda-feira
+2043,2043-11-02,Finados,segunda-feira
+2043,2043-11-15,Proclamação da República,domingo
+2043,2043-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2043,2043-12-25,Natal,sexta-feira
+2044,2044-01-01,Confraternização Universal,sexta-feira
+2044,2044-02-29,Carnaval,segunda-feira
+2044,2044-03-01,Carnaval,terça-feira
+2044,2044-04-15,Paixão de Cristo,sexta-feira
+2044,2044-04-21,Tiradentes,quinta-feira
+2044,2044-05-01,Dia do Trabalho,domingo
+2044,2044-06-16,Corpus Christi,quinta-feira
+2044,2044-09-07,Independência do Brasil,quarta-feira
+2044,2044-11-02,Finados,quarta-feira
+2044,2044-11-15,Proclamação da República,terça-feira
+2044,2044-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2044,2044-12-25,Natal,domingo
+2045,2045-01-01,Confraternização Universal,domingo
+2045,2045-02-20,Carnaval,segunda-feira
+2045,2045-02-21,Carnaval,terça-feira
+2045,2045-04-07,Paixão de Cristo,sexta-feira
+2045,2045-04-21,Tiradentes,sexta-feira
+2045,2045-05-01,Dia do Trabalho,segunda-feira
+2045,2045-06-08,Corpus Christi,quinta-feira
+2045,2045-09-07,Independência do Brasil,quinta-feira
+2045,2045-11-02,Finados,quinta-feira
+2045,2045-11-15,Proclamação da República,quarta-feira
+2045,2045-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2045,2045-12-25,Natal,segunda-feira
+2046,2046-01-01,Confraternização Universal,segunda-feira
+2046,2046-02-05,Carnaval,segunda-feira
+2046,2046-02-06,Carnaval,terça-feira
+2046,2046-03-23,Paixão de Cristo,sexta-feira
+2046,2046-04-21,Tiradentes,sábado
+2046,2046-05-01,Dia do Trabalho,terça-feira
+2046,2046-05-24,Corpus Christi,quinta-feira
+2046,2046-09-07,Independência do Brasil,sexta-feira
+2046,2046-11-02,Finados,sexta-feira
+2046,2046-11-15,Proclamação da República,quinta-feira
+2046,2046-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2046,2046-12-25,Natal,terça-feira
+2047,2047-01-01,Confraternização Universal,terça-feira
+2047,2047-02-25,Carnaval,segunda-feira
+2047,2047-02-26,Carnaval,terça-feira
+2047,2047-04-12,Paixão de Cristo,sexta-feira
+2047,2047-04-21,Tiradentes,domingo
+2047,2047-05-01,Dia do Trabalho,quarta-feira
+2047,2047-06-13,Corpus Christi,quinta-feira
+2047,2047-09-07,Independência do Brasil,sábado
+2047,2047-11-02,Finados,sábado
+2047,2047-11-15,Proclamação da República,sexta-feira
+2047,2047-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2047,2047-12-25,Natal,quarta-feira
+2048,2048-01-01,Confraternização Universal,quarta-feira
+2048,2048-02-17,Carnaval,segunda-feira
+2048,2048-02-18,Carnaval,terça-feira
+2048,2048-04-03,Paixão de Cristo,sexta-feira
+2048,2048-04-21,Tiradentes,terça-feira
+2048,2048-05-01,Dia do Trabalho,sexta-feira
+2048,2048-06-04,Corpus Christi,quinta-feira
+2048,2048-09-07,Independência do Brasil,segunda-feira
+2048,2048-11-02,Finados,segunda-feira
+2048,2048-11-15,Proclamação da República,domingo
+2048,2048-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2048,2048-12-25,Natal,sexta-feira
+2049,2049-01-01,Confraternização Universal,sexta-feira
+2049,2049-03-01,Carnaval,segunda-feira
+2049,2049-03-02,Carnaval,terça-feira
+2049,2049-04-16,Paixão de Cristo,sexta-feira
+2049,2049-04-21,Tiradentes,quarta-feira
+2049,2049-05-01,Dia do Trabalho,sábado
+2049,2049-06-17,Corpus Christi,quinta-feira
+2049,2049-09-07,Independência do Brasil,terça-feira
+2049,2049-11-02,Finados,terça-feira
+2049,2049-11-15,Proclamação da República,segunda-feira
+2049,2049-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2049,2049-12-25,Natal,sábado
+2050,2050-01-01,Confraternização Universal,sábado
+2050,2050-02-21,Carnaval,segunda-feira
+2050,2050-02-22,Carnaval,terça-feira
+2050,2050-04-08,Paixão de Cristo,sexta-feira
+2050,2050-04-21,Tiradentes,quinta-feira
+2050,2050-05-01,Dia do Trabalho,domingo
+2050,2050-06-09,Corpus Christi,quinta-feira
+2050,2050-09-07,Independência do Brasil,quarta-feira
+2050,2050-11-02,Finados,quarta-feira
+2050,2050-11-15,Proclamação da República,terça-feira
+2050,2050-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2050,2050-12-25,Natal,domingo
+2051,2051-01-01,Confraternização Universal,domingo
+2051,2051-02-13,Carnaval,segunda-feira
+2051,2051-02-14,Carnaval,terça-feira
+2051,2051-03-31,Paixão de Cristo,sexta-feira
+2051,2051-04-21,Tiradentes,sexta-feira
+2051,2051-05-01,Dia do Trabalho,segunda-feira
+2051,2051-06-01,Corpus Christi,quinta-feira
+2051,2051-09-07,Independência do Brasil,quinta-feira
+2051,2051-11-02,Finados,quinta-feira
+2051,2051-11-15,Proclamação da República,quarta-feira
+2051,2051-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2051,2051-12-25,Natal,segunda-feira
+2052,2052-01-01,Confraternização Universal,segunda-feira
+2052,2052-03-04,Carnaval,segunda-feira
+2052,2052-03-05,Carnaval,terça-feira
+2052,2052-04-19,Paixão de Cristo,sexta-feira
+2052,2052-04-21,Tiradentes,domingo
+2052,2052-05-01,Dia do Trabalho,quarta-feira
+2052,2052-06-20,Corpus Christi,quinta-feira
+2052,2052-09-07,Independência do Brasil,sábado
+2052,2052-11-02,Finados,sábado
+2052,2052-11-15,Proclamação da República,sexta-feira
+2052,2052-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2052,2052-12-25,Natal,quarta-feira
+2053,2053-01-01,Confraternização Universal,quarta-feira
+2053,2053-02-17,Carnaval,segunda-feira
+2053,2053-02-18,Carnaval,terça-feira
+2053,2053-04-04,Paixão de Cristo,sexta-feira
+2053,2053-04-21,Tiradentes,segunda-feira
+2053,2053-05-01,Dia do Trabalho,quinta-feira
+2053,2053-06-05,Corpus Christi,quinta-feira
+2053,2053-09-07,Independência do Brasil,domingo
+2053,2053-11-02,Finados,domingo
+2053,2053-11-15,Proclamação da República,sábado
+2053,2053-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2053,2053-12-25,Natal,quinta-feira
+2054,2054-01-01,Confraternização Universal,quinta-feira
+2054,2054-02-09,Carnaval,segunda-feira
+2054,2054-02-10,Carnaval,terça-feira
+2054,2054-03-27,Paixão de Cristo,sexta-feira
+2054,2054-04-21,Tiradentes,terça-feira
+2054,2054-05-01,Dia do Trabalho,sexta-feira
+2054,2054-05-28,Corpus Christi,quinta-feira
+2054,2054-09-07,Independência do Brasil,segunda-feira
+2054,2054-11-02,Finados,segunda-feira
+2054,2054-11-15,Proclamação da República,domingo
+2054,2054-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2054,2054-12-25,Natal,sexta-feira
+2055,2055-01-01,Confraternização Universal,sexta-feira
+2055,2055-03-01,Carnaval,segunda-feira
+2055,2055-03-02,Carnaval,terça-feira
+2055,2055-04-16,Paixão de Cristo,sexta-feira
+2055,2055-04-21,Tiradentes,quarta-feira
+2055,2055-05-01,Dia do Trabalho,sábado
+2055,2055-06-17,Corpus Christi,quinta-feira
+2055,2055-09-07,Independência do Brasil,terça-feira
+2055,2055-11-02,Finados,terça-feira
+2055,2055-11-15,Proclamação da República,segunda-feira
+2055,2055-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2055,2055-12-25,Natal,sábado
+2056,2056-01-01,Confraternização Universal,sábado
+2056,2056-02-14,Carnaval,segunda-feira
+2056,2056-02-15,Carnaval,terça-feira
+2056,2056-03-31,Paixão de Cristo,sexta-feira
+2056,2056-04-21,Tiradentes,sexta-feira
+2056,2056-05-01,Dia do Trabalho,segunda-feira
+2056,2056-06-01,Corpus Christi,quinta-feira
+2056,2056-09-07,Independência do Brasil,quinta-feira
+2056,2056-11-02,Finados,quinta-feira
+2056,2056-11-15,Proclamação da República,quarta-feira
+2056,2056-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2056,2056-12-25,Natal,segunda-feira
+2057,2057-01-01,Confraternização Universal,segunda-feira
+2057,2057-03-05,Carnaval,segunda-feira
+2057,2057-03-06,Carnaval,terça-feira
+2057,2057-04-20,Paixão de Cristo,sexta-feira
+2057,2057-04-21,Tiradentes,sábado
+2057,2057-05-01,Dia do Trabalho,terça-feira
+2057,2057-06-21,Corpus Christi,quinta-feira
+2057,2057-09-07,Independência do Brasil,sexta-feira
+2057,2057-11-02,Finados,sexta-feira
+2057,2057-11-15,Proclamação da República,quinta-feira
+2057,2057-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2057,2057-12-25,Natal,terça-feira
+2058,2058-01-01,Confraternização Universal,terça-feira
+2058,2058-02-25,Carnaval,segunda-feira
+2058,2058-02-26,Carnaval,terça-feira
+2058,2058-04-12,Paixão de Cristo,sexta-feira
+2058,2058-04-21,Tiradentes,domingo
+2058,2058-05-01,Dia do Trabalho,quarta-feira
+2058,2058-06-13,Corpus Christi,quinta-feira
+2058,2058-09-07,Independência do Brasil,sábado
+2058,2058-11-02,Finados,sábado
+2058,2058-11-15,Proclamação da República,sexta-feira
+2058,2058-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2058,2058-12-25,Natal,quarta-feira
+2059,2059-01-01,Confraternização Universal,quarta-feira
+2059,2059-02-10,Carnaval,segunda-feira
+2059,2059-02-11,Carnaval,terça-feira
+2059,2059-03-28,Paixão de Cristo,sexta-feira
+2059,2059-04-21,Tiradentes,segunda-feira
+2059,2059-05-01,Dia do Trabalho,quinta-feira
+2059,2059-05-29,Corpus Christi,quinta-feira
+2059,2059-09-07,Independência do Brasil,domingo
+2059,2059-11-02,Finados,domingo
+2059,2059-11-15,Proclamação da República,sábado
+2059,2059-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2059,2059-12-25,Natal,quinta-feira
+2060,2060-01-01,Confraternização Universal,quinta-feira
+2060,2060-03-01,Carnaval,segunda-feira
+2060,2060-03-02,Carnaval,terça-feira
+2060,2060-04-16,Paixão de Cristo,sexta-feira
+2060,2060-04-21,Tiradentes,quarta-feira
+2060,2060-05-01,Dia do Trabalho,sábado
+2060,2060-06-17,Corpus Christi,quinta-feira
+2060,2060-09-07,Independência do Brasil,terça-feira
+2060,2060-11-02,Finados,terça-feira
+2060,2060-11-15,Proclamação da República,segunda-feira
+2060,2060-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2060,2060-12-25,Natal,sábado
+2061,2061-01-01,Confraternização Universal,sábado
+2061,2061-02-21,Carnaval,segunda-feira
+2061,2061-02-22,Carnaval,terça-feira
+2061,2061-04-08,Paixão de Cristo,sexta-feira
+2061,2061-04-21,Tiradentes,quinta-feira
+2061,2061-05-01,Dia do Trabalho,domingo
+2061,2061-06-09,Corpus Christi,quinta-feira
+2061,2061-09-07,Independência do Brasil,quarta-feira
+2061,2061-11-02,Finados,quarta-feira
+2061,2061-11-15,Proclamação da República,terça-feira
+2061,2061-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2061,2061-12-25,Natal,domingo
+2062,2062-01-01,Confraternização Universal,domingo
+2062,2062-02-06,Carnaval,segunda-feira
+2062,2062-02-07,Carnaval,terça-feira
+2062,2062-03-24,Paixão de Cristo,sexta-feira
+2062,2062-04-21,Tiradentes,sexta-feira
+2062,2062-05-01,Dia do Trabalho,segunda-feira
+2062,2062-05-25,Corpus Christi,quinta-feira
+2062,2062-09-07,Independência do Brasil,quinta-feira
+2062,2062-11-02,Finados,quinta-feira
+2062,2062-11-15,Proclamação da República,quarta-feira
+2062,2062-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2062,2062-12-25,Natal,segunda-feira
+2063,2063-01-01,Confraternização Universal,segunda-feira
+2063,2063-02-26,Carnaval,segunda-feira
+2063,2063-02-27,Carnaval,terça-feira
+2063,2063-04-13,Paixão de Cristo,sexta-feira
+2063,2063-04-21,Tiradentes,sábado
+2063,2063-05-01,Dia do Trabalho,terça-feira
+2063,2063-06-14,Corpus Christi,quinta-feira
+2063,2063-09-07,Independência do Brasil,sexta-feira
+2063,2063-11-02,Finados,sexta-feira
+2063,2063-11-15,Proclamação da República,quinta-feira
+2063,2063-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2063,2063-12-25,Natal,terça-feira
+2064,2064-01-01,Confraternização Universal,terça-feira
+2064,2064-02-18,Carnaval,segunda-feira
+2064,2064-02-19,Carnaval,terça-feira
+2064,2064-04-04,Paixão de Cristo,sexta-feira
+2064,2064-04-21,Tiradentes,segunda-feira
+2064,2064-05-01,Dia do Trabalho,quinta-feira
+2064,2064-06-05,Corpus Christi,quinta-feira
+2064,2064-09-07,Independência do Brasil,domingo
+2064,2064-11-02,Finados,domingo
+2064,2064-11-15,Proclamação da República,sábado
+2064,2064-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2064,2064-12-25,Natal,quinta-feira
+2065,2065-01-01,Confraternização Universal,quinta-feira
+2065,2065-02-09,Carnaval,segunda-feira
+2065,2065-02-10,Carnaval,terça-feira
+2065,2065-03-27,Paixão de Cristo,sexta-feira
+2065,2065-04-21,Tiradentes,terça-feira
+2065,2065-05-01,Dia do Trabalho,sexta-feira
+2065,2065-05-28,Corpus Christi,quinta-feira
+2065,2065-09-07,Independência do Brasil,segunda-feira
+2065,2065-11-02,Finados,segunda-feira
+2065,2065-11-15,Proclamação da República,domingo
+2065,2065-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2065,2065-12-25,Natal,sexta-feira
+2066,2066-01-01,Confraternização Universal,sexta-feira
+2066,2066-02-22,Carnaval,segunda-feira
+2066,2066-02-23,Carnaval,terça-feira
+2066,2066-04-09,Paixão de Cristo,sexta-feira
+2066,2066-04-21,Tiradentes,quarta-feira
+2066,2066-05-01,Dia do Trabalho,sábado
+2066,2066-06-10,Corpus Christi,quinta-feira
+2066,2066-09-07,Independência do Brasil,terça-feira
+2066,2066-11-02,Finados,terça-feira
+2066,2066-11-15,Proclamação da República,segunda-feira
+2066,2066-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2066,2066-12-25,Natal,sábado
+2067,2067-01-01,Confraternização Universal,sábado
+2067,2067-02-14,Carnaval,segunda-feira
+2067,2067-02-15,Carnaval,terça-feira
+2067,2067-04-01,Paixão de Cristo,sexta-feira
+2067,2067-04-21,Tiradentes,quinta-feira
+2067,2067-05-01,Dia do Trabalho,domingo
+2067,2067-06-02,Corpus Christi,quinta-feira
+2067,2067-09-07,Independência do Brasil,quarta-feira
+2067,2067-11-02,Finados,quarta-feira
+2067,2067-11-15,Proclamação da República,terça-feira
+2067,2067-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2067,2067-12-25,Natal,domingo
+2068,2068-01-01,Confraternização Universal,domingo
+2068,2068-03-05,Carnaval,segunda-feira
+2068,2068-03-06,Carnaval,terça-feira
+2068,2068-04-20,Paixão de Cristo,sexta-feira
+2068,2068-04-21,Tiradentes,sábado
+2068,2068-05-01,Dia do Trabalho,terça-feira
+2068,2068-06-21,Corpus Christi,quinta-feira
+2068,2068-09-07,Independência do Brasil,sexta-feira
+2068,2068-11-02,Finados,sexta-feira
+2068,2068-11-15,Proclamação da República,quinta-feira
+2068,2068-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2068,2068-12-25,Natal,terça-feira
+2069,2069-01-01,Confraternização Universal,terça-feira
+2069,2069-02-25,Carnaval,segunda-feira
+2069,2069-02-26,Carnaval,terça-feira
+2069,2069-04-12,Paixão de Cristo,sexta-feira
+2069,2069-04-21,Tiradentes,domingo
+2069,2069-05-01,Dia do Trabalho,quarta-feira
+2069,2069-06-13,Corpus Christi,quinta-feira
+2069,2069-09-07,Independência do Brasil,sábado
+2069,2069-11-02,Finados,sábado
+2069,2069-11-15,Proclamação da República,sexta-feira
+2069,2069-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2069,2069-12-25,Natal,quarta-feira
+2070,1970-01-01,Confraternização Universal,quarta-feira
+2070,1970-02-10,Carnaval,segunda-feira
+2070,1970-02-11,Carnaval,terça-feira
+2070,1970-03-28,Paixão de Cristo,sexta-feira
+2070,1970-04-21,Tiradentes,segunda-feira
+2070,1970-05-01,Dia do Trabalho,quinta-feira
+2070,1970-05-29,Corpus Christi,quinta-feira
+2070,1970-09-07,Independência do Brasil,domingo
+2070,1970-11-02,Finados,domingo
+2070,1970-11-15,Proclamação da República,sábado
+2070,1970-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2070,1970-12-25,Natal,quinta-feira
+2071,1971-01-01,Confraternização Universal,quinta-feira
+2071,1971-03-02,Carnaval,segunda-feira
+2071,1971-03-03,Carnaval,terça-feira
+2071,1971-04-17,Paixão de Cristo,sexta-feira
+2071,1971-04-21,Tiradentes,terça-feira
+2071,1971-05-01,Dia do Trabalho,sexta-feira
+2071,1971-06-18,Corpus Christi,quinta-feira
+2071,1971-09-07,Independência do Brasil,segunda-feira
+2071,1971-11-02,Finados,segunda-feira
+2071,1971-11-15,Proclamação da República,domingo
+2071,1971-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2071,1971-12-25,Natal,sexta-feira
+2072,1972-01-01,Confraternização Universal,sexta-feira
+2072,1972-02-22,Carnaval,segunda-feira
+2072,1972-02-23,Carnaval,terça-feira
+2072,1972-04-08,Paixão de Cristo,sexta-feira
+2072,1972-04-21,Tiradentes,quinta-feira
+2072,1972-05-01,Dia do Trabalho,domingo
+2072,1972-06-09,Corpus Christi,quinta-feira
+2072,1972-09-07,Independência do Brasil,quarta-feira
+2072,1972-11-02,Finados,quarta-feira
+2072,1972-11-15,Proclamação da República,terça-feira
+2072,1972-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2072,1972-12-25,Natal,domingo
+2073,1973-01-01,Confraternização Universal,domingo
+2073,1973-02-06,Carnaval,segunda-feira
+2073,1973-02-07,Carnaval,terça-feira
+2073,1973-03-24,Paixão de Cristo,sexta-feira
+2073,1973-04-21,Tiradentes,sexta-feira
+2073,1973-05-01,Dia do Trabalho,segunda-feira
+2073,1973-05-25,Corpus Christi,quinta-feira
+2073,1973-09-07,Independência do Brasil,quinta-feira
+2073,1973-11-02,Finados,quinta-feira
+2073,1973-11-15,Proclamação da República,quarta-feira
+2073,1973-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2073,1973-12-25,Natal,segunda-feira
+2074,1974-01-01,Confraternização Universal,segunda-feira
+2074,1974-02-26,Carnaval,segunda-feira
+2074,1974-02-27,Carnaval,terça-feira
+2074,1974-04-13,Paixão de Cristo,sexta-feira
+2074,1974-04-21,Tiradentes,sábado
+2074,1974-05-01,Dia do Trabalho,terça-feira
+2074,1974-06-14,Corpus Christi,quinta-feira
+2074,1974-09-07,Independência do Brasil,sexta-feira
+2074,1974-11-02,Finados,sexta-feira
+2074,1974-11-15,Proclamação da República,quinta-feira
+2074,1974-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2074,1974-12-25,Natal,terça-feira
+2075,1975-01-01,Confraternização Universal,terça-feira
+2075,1975-02-18,Carnaval,segunda-feira
+2075,1975-02-19,Carnaval,terça-feira
+2075,1975-04-05,Paixão de Cristo,sexta-feira
+2075,1975-04-21,Tiradentes,domingo
+2075,1975-05-01,Dia do Trabalho,quarta-feira
+2075,1975-06-06,Corpus Christi,quinta-feira
+2075,1975-09-07,Independência do Brasil,sábado
+2075,1975-11-02,Finados,sábado
+2075,1975-11-15,Proclamação da República,sexta-feira
+2075,1975-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2075,1975-12-25,Natal,quarta-feira
+2076,1976-01-01,Confraternização Universal,quarta-feira
+2076,1976-03-02,Carnaval,segunda-feira
+2076,1976-03-03,Carnaval,terça-feira
+2076,1976-04-17,Paixão de Cristo,sexta-feira
+2076,1976-04-21,Tiradentes,terça-feira
+2076,1976-05-01,Dia do Trabalho,sexta-feira
+2076,1976-06-18,Corpus Christi,quinta-feira
+2076,1976-09-07,Independência do Brasil,segunda-feira
+2076,1976-11-02,Finados,segunda-feira
+2076,1976-11-15,Proclamação da República,domingo
+2076,1976-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2076,1976-12-25,Natal,sexta-feira
+2077,1977-01-01,Confraternização Universal,sexta-feira
+2077,1977-02-22,Carnaval,segunda-feira
+2077,1977-02-23,Carnaval,terça-feira
+2077,1977-04-09,Paixão de Cristo,sexta-feira
+2077,1977-04-21,Tiradentes,quarta-feira
+2077,1977-05-01,Dia do Trabalho,sábado
+2077,1977-06-10,Corpus Christi,quinta-feira
+2077,1977-09-07,Independência do Brasil,terça-feira
+2077,1977-11-02,Finados,terça-feira
+2077,1977-11-15,Proclamação da República,segunda-feira
+2077,1977-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2077,1977-12-25,Natal,sábado
+2078,1978-01-01,Confraternização Universal,sábado
+2078,1978-02-14,Carnaval,segunda-feira
+2078,1978-02-15,Carnaval,terça-feira
+2078,1978-04-01,Paixão de Cristo,sexta-feira
+2078,1978-04-21,Tiradentes,quinta-feira
+2078,1978-05-01,Dia do Trabalho,domingo
+2078,1978-06-02,Corpus Christi,quinta-feira
+2078,1978-09-07,Independência do Brasil,quarta-feira
+2078,1978-11-02,Finados,quarta-feira
+2078,1978-11-15,Proclamação da República,terça-feira
+2078,1978-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2078,1978-12-25,Natal,domingo
+2079,1979-01-01,Confraternização Universal,domingo
+2079,1979-03-06,Carnaval,segunda-feira
+2079,1979-03-07,Carnaval,terça-feira
+2079,1979-04-21,Paixão de Cristo,sexta-feira
+2079,1979-04-21,Tiradentes,sexta-feira
+2079,1979-05-01,Dia do Trabalho,segunda-feira
+2079,1979-06-22,Corpus Christi,quinta-feira
+2079,1979-09-07,Independência do Brasil,quinta-feira
+2079,1979-11-02,Finados,quinta-feira
+2079,1979-11-15,Proclamação da República,quarta-feira
+2079,1979-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2079,1979-12-25,Natal,segunda-feira
+2080,1980-01-01,Confraternização Universal,segunda-feira
+2080,1980-02-19,Carnaval,segunda-feira
+2080,1980-02-20,Carnaval,terça-feira
+2080,1980-04-05,Paixão de Cristo,sexta-feira
+2080,1980-04-21,Tiradentes,domingo
+2080,1980-05-01,Dia do Trabalho,quarta-feira
+2080,1980-06-06,Corpus Christi,quinta-feira
+2080,1980-09-07,Independência do Brasil,sábado
+2080,1980-11-02,Finados,sábado
+2080,1980-11-15,Proclamação da República,sexta-feira
+2080,1980-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2080,1980-12-25,Natal,quarta-feira
+2081,1981-01-01,Confraternização Universal,quarta-feira
+2081,1981-02-10,Carnaval,segunda-feira
+2081,1981-02-11,Carnaval,terça-feira
+2081,1981-03-28,Paixão de Cristo,sexta-feira
+2081,1981-04-21,Tiradentes,segunda-feira
+2081,1981-05-01,Dia do Trabalho,quinta-feira
+2081,1981-05-29,Corpus Christi,quinta-feira
+2081,1981-09-07,Independência do Brasil,domingo
+2081,1981-11-02,Finados,domingo
+2081,1981-11-15,Proclamação da República,sábado
+2081,1981-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2081,1981-12-25,Natal,quinta-feira
+2082,1982-01-01,Confraternização Universal,quinta-feira
+2082,1982-03-02,Carnaval,segunda-feira
+2082,1982-03-03,Carnaval,terça-feira
+2082,1982-04-17,Paixão de Cristo,sexta-feira
+2082,1982-04-21,Tiradentes,terça-feira
+2082,1982-05-01,Dia do Trabalho,sexta-feira
+2082,1982-06-18,Corpus Christi,quinta-feira
+2082,1982-09-07,Independência do Brasil,segunda-feira
+2082,1982-11-02,Finados,segunda-feira
+2082,1982-11-15,Proclamação da República,domingo
+2082,1982-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2082,1982-12-25,Natal,sexta-feira
+2083,1983-01-01,Confraternização Universal,sexta-feira
+2083,1983-02-15,Carnaval,segunda-feira
+2083,1983-02-16,Carnaval,terça-feira
+2083,1983-04-02,Paixão de Cristo,sexta-feira
+2083,1983-04-21,Tiradentes,quarta-feira
+2083,1983-05-01,Dia do Trabalho,sábado
+2083,1983-06-03,Corpus Christi,quinta-feira
+2083,1983-09-07,Independência do Brasil,terça-feira
+2083,1983-11-02,Finados,terça-feira
+2083,1983-11-15,Proclamação da República,segunda-feira
+2083,1983-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2083,1983-12-25,Natal,sábado
+2084,1984-01-01,Confraternização Universal,sábado
+2084,1984-02-07,Carnaval,segunda-feira
+2084,1984-02-08,Carnaval,terça-feira
+2084,1984-03-24,Paixão de Cristo,sexta-feira
+2084,1984-04-21,Tiradentes,sexta-feira
+2084,1984-05-01,Dia do Trabalho,segunda-feira
+2084,1984-05-25,Corpus Christi,quinta-feira
+2084,1984-09-07,Independência do Brasil,quinta-feira
+2084,1984-11-02,Finados,quinta-feira
+2084,1984-11-15,Proclamação da República,quarta-feira
+2084,1984-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2084,1984-12-25,Natal,segunda-feira
+2085,1985-01-01,Confraternização Universal,segunda-feira
+2085,1985-02-26,Carnaval,segunda-feira
+2085,1985-02-27,Carnaval,terça-feira
+2085,1985-04-13,Paixão de Cristo,sexta-feira
+2085,1985-04-21,Tiradentes,sábado
+2085,1985-05-01,Dia do Trabalho,terça-feira
+2085,1985-06-14,Corpus Christi,quinta-feira
+2085,1985-09-07,Independência do Brasil,sexta-feira
+2085,1985-11-02,Finados,sexta-feira
+2085,1985-11-15,Proclamação da República,quinta-feira
+2085,1985-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2085,1985-12-25,Natal,terça-feira
+2086,1986-01-01,Confraternização Universal,terça-feira
+2086,1986-02-11,Carnaval,segunda-feira
+2086,1986-02-12,Carnaval,terça-feira
+2086,1986-03-29,Paixão de Cristo,sexta-feira
+2086,1986-04-21,Tiradentes,domingo
+2086,1986-05-01,Dia do Trabalho,quarta-feira
+2086,1986-05-30,Corpus Christi,quinta-feira
+2086,1986-09-07,Independência do Brasil,sábado
+2086,1986-11-02,Finados,sábado
+2086,1986-11-15,Proclamação da República,sexta-feira
+2086,1986-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2086,1986-12-25,Natal,quarta-feira
+2087,1987-01-01,Confraternização Universal,quarta-feira
+2087,1987-03-03,Carnaval,segunda-feira
+2087,1987-03-04,Carnaval,terça-feira
+2087,1987-04-18,Paixão de Cristo,sexta-feira
+2087,1987-04-21,Tiradentes,segunda-feira
+2087,1987-05-01,Dia do Trabalho,quinta-feira
+2087,1987-06-19,Corpus Christi,quinta-feira
+2087,1987-09-07,Independência do Brasil,domingo
+2087,1987-11-02,Finados,domingo
+2087,1987-11-15,Proclamação da República,sábado
+2087,1987-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2087,1987-12-25,Natal,quinta-feira
+2088,1988-01-01,Confraternização Universal,quinta-feira
+2088,1988-02-23,Carnaval,segunda-feira
+2088,1988-02-24,Carnaval,terça-feira
+2088,1988-04-09,Paixão de Cristo,sexta-feira
+2088,1988-04-21,Tiradentes,quarta-feira
+2088,1988-05-01,Dia do Trabalho,sábado
+2088,1988-06-10,Corpus Christi,quinta-feira
+2088,1988-09-07,Independência do Brasil,terça-feira
+2088,1988-11-02,Finados,terça-feira
+2088,1988-11-15,Proclamação da República,segunda-feira
+2088,1988-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2088,1988-12-25,Natal,sábado
+2089,1989-01-01,Confraternização Universal,sábado
+2089,1989-02-14,Carnaval,segunda-feira
+2089,1989-02-15,Carnaval,terça-feira
+2089,1989-04-01,Paixão de Cristo,sexta-feira
+2089,1989-04-21,Tiradentes,quinta-feira
+2089,1989-05-01,Dia do Trabalho,domingo
+2089,1989-06-02,Corpus Christi,quinta-feira
+2089,1989-09-07,Independência do Brasil,quarta-feira
+2089,1989-11-02,Finados,quarta-feira
+2089,1989-11-15,Proclamação da República,terça-feira
+2089,1989-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2089,1989-12-25,Natal,domingo
+2090,1990-01-01,Confraternização Universal,domingo
+2090,1990-02-27,Carnaval,segunda-feira
+2090,1990-02-28,Carnaval,terça-feira
+2090,1990-04-14,Paixão de Cristo,sexta-feira
+2090,1990-04-21,Tiradentes,sexta-feira
+2090,1990-05-01,Dia do Trabalho,segunda-feira
+2090,1990-06-15,Corpus Christi,quinta-feira
+2090,1990-09-07,Independência do Brasil,quinta-feira
+2090,1990-11-02,Finados,quinta-feira
+2090,1990-11-15,Proclamação da República,quarta-feira
+2090,1990-11-20,Dia Nacional de Zumbi e da Consciência Negra,segunda-feira
+2090,1990-12-25,Natal,segunda-feira
+2091,1991-01-01,Confraternização Universal,segunda-feira
+2091,1991-02-19,Carnaval,segunda-feira
+2091,1991-02-20,Carnaval,terça-feira
+2091,1991-04-06,Paixão de Cristo,sexta-feira
+2091,1991-04-21,Tiradentes,sábado
+2091,1991-05-01,Dia do Trabalho,terça-feira
+2091,1991-06-07,Corpus Christi,quinta-feira
+2091,1991-09-07,Independência do Brasil,sexta-feira
+2091,1991-11-02,Finados,sexta-feira
+2091,1991-11-15,Proclamação da República,quinta-feira
+2091,1991-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2091,1991-12-25,Natal,terça-feira
+2092,1992-01-01,Confraternização Universal,terça-feira
+2092,1992-02-11,Carnaval,segunda-feira
+2092,1992-02-12,Carnaval,terça-feira
+2092,1992-03-28,Paixão de Cristo,sexta-feira
+2092,1992-04-21,Tiradentes,segunda-feira
+2092,1992-05-01,Dia do Trabalho,quinta-feira
+2092,1992-05-29,Corpus Christi,quinta-feira
+2092,1992-09-07,Independência do Brasil,domingo
+2092,1992-11-02,Finados,domingo
+2092,1992-11-15,Proclamação da República,sábado
+2092,1992-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2092,1992-12-25,Natal,quinta-feira
+2093,1993-01-01,Confraternização Universal,quinta-feira
+2093,1993-02-23,Carnaval,segunda-feira
+2093,1993-02-24,Carnaval,terça-feira
+2093,1993-04-10,Paixão de Cristo,sexta-feira
+2093,1993-04-21,Tiradentes,terça-feira
+2093,1993-05-01,Dia do Trabalho,sexta-feira
+2093,1993-06-11,Corpus Christi,quinta-feira
+2093,1993-09-07,Independência do Brasil,segunda-feira
+2093,1993-11-02,Finados,segunda-feira
+2093,1993-11-15,Proclamação da República,domingo
+2093,1993-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2093,1993-12-25,Natal,sexta-feira
+2094,1994-01-01,Confraternização Universal,sexta-feira
+2094,1994-02-15,Carnaval,segunda-feira
+2094,1994-02-16,Carnaval,terça-feira
+2094,1994-04-02,Paixão de Cristo,sexta-feira
+2094,1994-04-21,Tiradentes,quarta-feira
+2094,1994-05-01,Dia do Trabalho,sábado
+2094,1994-06-03,Corpus Christi,quinta-feira
+2094,1994-09-07,Independência do Brasil,terça-feira
+2094,1994-11-02,Finados,terça-feira
+2094,1994-11-15,Proclamação da República,segunda-feira
+2094,1994-11-20,Dia Nacional de Zumbi e da Consciência Negra,sábado
+2094,1994-12-25,Natal,sábado
+2095,1995-01-01,Confraternização Universal,sábado
+2095,1995-03-07,Carnaval,segunda-feira
+2095,1995-03-08,Carnaval,terça-feira
+2095,1995-04-21,Tiradentes,quinta-feira
+2095,1995-04-22,Paixão de Cristo,sexta-feira
+2095,1995-05-01,Dia do Trabalho,domingo
+2095,1995-06-23,Corpus Christi,quinta-feira
+2095,1995-09-07,Independência do Brasil,quarta-feira
+2095,1995-11-02,Finados,quarta-feira
+2095,1995-11-15,Proclamação da República,terça-feira
+2095,1995-11-20,Dia Nacional de Zumbi e da Consciência Negra,domingo
+2095,1995-12-25,Natal,domingo
+2096,1996-01-01,Confraternização Universal,domingo
+2096,1996-02-27,Carnaval,segunda-feira
+2096,1996-02-28,Carnaval,terça-feira
+2096,1996-04-13,Paixão de Cristo,sexta-feira
+2096,1996-04-21,Tiradentes,sábado
+2096,1996-05-01,Dia do Trabalho,terça-feira
+2096,1996-06-14,Corpus Christi,quinta-feira
+2096,1996-09-07,Independência do Brasil,sexta-feira
+2096,1996-11-02,Finados,sexta-feira
+2096,1996-11-15,Proclamação da República,quinta-feira
+2096,1996-11-20,Dia Nacional de Zumbi e da Consciência Negra,terça-feira
+2096,1996-12-25,Natal,terça-feira
+2097,1997-01-01,Confraternização Universal,terça-feira
+2097,1997-02-11,Carnaval,segunda-feira
+2097,1997-02-12,Carnaval,terça-feira
+2097,1997-03-29,Paixão de Cristo,sexta-feira
+2097,1997-04-21,Tiradentes,domingo
+2097,1997-05-01,Dia do Trabalho,quarta-feira
+2097,1997-05-30,Corpus Christi,quinta-feira
+2097,1997-09-07,Independência do Brasil,sábado
+2097,1997-11-02,Finados,sábado
+2097,1997-11-15,Proclamação da República,sexta-feira
+2097,1997-11-20,Dia Nacional de Zumbi e da Consciência Negra,quarta-feira
+2097,1997-12-25,Natal,quarta-feira
+2098,1998-01-01,Confraternização Universal,quarta-feira
+2098,1998-03-03,Carnaval,segunda-feira
+2098,1998-03-04,Carnaval,terça-feira
+2098,1998-04-18,Paixão de Cristo,sexta-feira
+2098,1998-04-21,Tiradentes,segunda-feira
+2098,1998-05-01,Dia do Trabalho,quinta-feira
+2098,1998-06-19,Corpus Christi,quinta-feira
+2098,1998-09-07,Independência do Brasil,domingo
+2098,1998-11-02,Finados,domingo
+2098,1998-11-15,Proclamação da República,sábado
+2098,1998-11-20,Dia Nacional de Zumbi e da Consciência Negra,quinta-feira
+2098,1998-12-25,Natal,quinta-feira
+2099,1999-01-01,Confraternização Universal,quinta-feira
+2099,1999-02-23,Carnaval,segunda-feira
+2099,1999-02-24,Carnaval,terça-feira
+2099,1999-04-10,Paixão de Cristo,sexta-feira
+2099,1999-04-21,Tiradentes,terça-feira
+2099,1999-05-01,Dia do Trabalho,sexta-feira
+2099,1999-06-11,Corpus Christi,quinta-feira
+2099,1999-09-07,Independência do Brasil,quarta-feira
+2099,1999-11-02,Finados,segunda-feira
+2099,1999-11-15,Proclamação da República,domingo
+2099,1999-11-20,Dia Nacional de Zumbi e da Consciência Negra,sexta-feira
+2099,1999-12-25,Natal,sexta-feira
