@@ -1,0 +1,104 @@
+# Feriados da Anbima
+
+```elixir
+Mix.install([
+  {:opq, "~> 4.0"},
+  {:explorer, "~> 0.10.1"},
+  {:floki, "~> 0.36.3"},
+  {:req, "~> 0.5.8"}
+])
+```
+
+## Configurações
+
+```elixir
+url_base = "https://www.anbima.com.br/feriados/feriados.asp"
+
+diretorio_tmp = System.tmp_dir!()
+
+# Usando `mkdir_p` pois é idempotente.
+:ok = File.mkdir_p!("anual")
+:ok = File.mkdir_p!("completo")
+
+{:ok, opq} = OPQ.init(workers: 3, interval: 700)
+```
+
+## Links de cada ano
+
+```elixir
+pagina_principal = Req.get!(url_base)
+uri = URI.new!(url_base)
+# Atualiza o path p/ uma lista sem a última parte.
+uri = %{uri | path: Path.split(uri.path) |> Enum.slice(0..-2//1)}
+
+html = Floki.parse_document!(pagina_principal.body)
+
+links =
+  html
+  |> Floki.find(":fl-contains('Ano')")
+  |> Floki.attribute("href")
+  |> Enum.map(fn relativo ->
+    URI.to_string(%{uri | path: IO.iodata_to_binary([uri.path, "/", relativo])})
+  end)
+```
+
+## Processando cada ano
+
+```elixir
+# Vamos salvar o HTML de cada ano no diretório temporário.
+# Isso pode demorar ou retornar erro, dependendo do servidor da Anbima.
+arquivos =
+  Enum.map(links, fn link ->
+    ano = String.replace(link, ~r/[^0-9]/, "")
+    path = Path.join(diretorio_tmp, ano <> ".html")
+
+    OPQ.enqueue(opq, fn ->
+      body = Req.get!(link).body
+      File.write!(path, body)
+    end)
+
+    {ano, path}
+  end)
+```
+
+```elixir
+require Explorer.DataFrame, as: DF
+alias Explorer.Series
+
+dfs =
+  for {ano, arquivo} <- arquivos do
+    arquivo
+    |> File.read!()
+    |> Floki.parse_document!()
+    |> Floki.find("tr")
+    |> Enum.flat_map(fn linha ->
+      case linha do
+        # Nós pegaremos somente as linhas que contém 3 colunas "parecidas"
+        # com o que estamos buscando.
+        {"tr", _attrs, [{"td", _, [t0]}, {"td", _, [t1]}, {"td", _, [t2]}]}
+        when is_binary(t0) and is_binary(t1) and is_binary(t2) ->
+          if String.match?(t0, ~r/[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{2}/) do
+            [%{ano: String.to_integer(ano), data: t0, dia_da_semana: t1, descricao: t2}]
+          else
+            []
+          end
+
+        _ ->
+          []
+      end
+    end)
+    |> DF.new([dtypes: [descricao: :category, dia_da_semana: :category]])
+    |> DF.mutate([data: Series.cast(Series.strptime(data, "%d/%m/%y"), :date)])
+  end
+```
+
+## Salvando arquivos
+
+```elixir
+for df <- dfs do
+  ano = df[:ano][0]
+  DF.to_csv!(df, "anual/feriados-anbima-#{ano}.csv")
+end
+
+dfs |> DF.concat_rows() |> DF.to_csv!("completo/feriados-anbima.csv")
+```

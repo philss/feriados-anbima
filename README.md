@@ -19,6 +19,12 @@ por ano no formato "feriados-anbima-{yyyy}.csv", onde "{yyyy}" é
 o ano em questão. No diretório "completo", somente um arquivo é
 salvo: "feriados-anbima.csv".
 
+## Código do estudo
+
+O estudo que salva estes arquivos está localizado no arquivo
+[feriados-anbima.livebook](feriados-anbima.livebook), e pode
+ser aberto pelo [Livebook](https://livebook.dev/).
+
 ## Licença
 
 Copyright (C) 2024 Philip Sampaio Silva
