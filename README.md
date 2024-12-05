@@ -16,13 +16,16 @@ Serão salvos os arquivos por ano, e um arquivo completo.
 Os diretórios serão: "anual" e "completo".
 Dentro do diretório "anual", você encontra os arquivos separados
 por ano no formato "feriados-anbima-{yyyy}.csv", onde "{yyyy}" é
-o ano em questão. No diretório "completo", somente um arquivo é
-salvo: "feriados-anbima.csv".
+o ano em questão.
+
+No diretório "completo" são salvos dois arquivos:
+* "feriados-anbima.csv"
+* "feriados-anbima.parquet"
 
 ## Código do estudo
 
 O estudo que salva estes arquivos está localizado no arquivo
-[feriados-anbima.livebook](feriados-anbima.livebook), e pode
+[feriados-anbima.livemd](feriados-anbima.livemd), e pode
 ser aberto pelo [Livebook](https://livebook.dev/).
 
 ## Licença

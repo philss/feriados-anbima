@@ -100,5 +100,10 @@ for df <- dfs do
   DF.to_csv!(df, "anual/feriados-anbima-#{ano}.csv")
 end
 
-dfs |> DF.concat_rows() |> DF.to_csv!("completo/feriados-anbima.csv")
+dfs
+|> DF.concat_rows()
+|> then(fn df ->
+  DF.to_csv!(df, "completo/feriados-anbima.csv")
+  DF.to_parquet!(df, "completo/feriados-anbima.parquet")
+end)
 ```
